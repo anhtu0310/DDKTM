@@ -1,0 +1,98 @@
+Importer Log Report
+Project : watch.PrjPcb
+
+Section : Analyze Document - C:\Users\NW\Desktop\projectcuaTU\watch.brd
+    Analyzing data of C:\Users\NW\Desktop\projectcuaTU\watch.brd
+    Load settings
+    Load layers 171
+    ERROR: Unhandled typepolygon
+    ERROR: Unhandled typepolygon
+    ERROR: Unhandled typepolygon
+    ERROR: Unhandled typepolygon
+    ERROR: Unhandled typepolygon
+    ERROR: Unhandled typepolygon
+    Load Library "microbuilder"
+    Load Packages 5
+    Load Library "zak"
+    Load Packages 3
+    Load Library "invensense"
+    Load Packages 1
+    Load Library "ESp32-d4"
+    Load Packages 1
+    Load Library "SparkFun-IC-Power"
+    Load Packages 1
+    Load Library "switch-tact"
+    Load Packages 1
+    Load Library "tsop-1"
+    Load Packages 1
+    Load Library "SparkFun-Connectors"
+    Load Packages 1
+    Load Library "SparkFun-RF"
+    Load Packages 1
+    Load Library "wirepad"
+    Load Packages 1
+EndSection
+
+Section : Analyze Document - C:\Users\NW\Desktop\projectcuaTU\watch.sch
+    Analyzing data of C:\Users\NW\Desktop\projectcuaTU\watch.sch
+    Load settings
+    Load layers 171
+    Load schematic
+    Load Libraries 13
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "microbuilder"
+    Load Packages 23
+    Load Symbols 6
+    Load DeviceSets 6
+    Load Library "zak"
+    Load Packages 8
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Library "frames"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-PowerSymbols"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "invensense"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "ESp32-d4"
+    Load Packages 1
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Library "SparkFun-IC-Power"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "switch-tact"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "tsop-1"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-Connectors"
+    Load Packages 20
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-RF"
+    Load Packages 5
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "wirepad"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 116
+    Load Sheets 1
+EndSection
